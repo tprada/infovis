@@ -11,3 +11,9 @@ En el primer grafico podemos encontrar 2 sub graficos: el de la derecha mostrand
 
 En el segundo grafico, hay 6 subgraficos mostrando todas las regiones con todos sus paises y sus medianas de indice de felicidad, Este grafico tambien es interactivo y si se clickea algun pais de alguna region, se puede ver en mas detalle esa region.
 [Grafico 2](https://public.tableau.com/profile/tadeo.prada#!/vizhome/InfoVizWeek11_2/REG2?publish=yes "Grafico 2").
+## Week 13
+Porciones de pizzas decrecientes en tamaño de acuerdo a la popularidad del Topping.
+[Grafico 1](https://bl.ocks.org/tprada/raw/afbf9b764b228d69ee2d183d97ff0d93/ "Grafico 1").
+## Week 14
+Grafico de Jerarquias dinamico hecho con Flourish, Tambien se puede filtrar por pais.
+[Grafico 1](https://public.flourish.studio/visualisation/1908574/ "Grafico 1").
